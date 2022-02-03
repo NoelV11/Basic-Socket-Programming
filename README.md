@@ -18,7 +18,7 @@ Here,we try to create a connection on the same machine,via port 4444
 
 ## Results
 
-A short-loved connection is recieved
+A short-lived connection is recieved
 
 ![Socket_Connection_Recieved](https://user-images.githubusercontent.com/77625109/123251783-36752180-d509-11eb-9b4d-3f2f55a0b47e.jpg)
 
